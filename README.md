@@ -13,3 +13,11 @@ files unmberd from 25 t0 29 were used to annotate genes around HCE regions and C
 
 # 02.PAML_analysis
 including two scripts:
+01.gblock.pl was used to get conseved sequence blocks.
+02.paml.pl was used to run paml for each gene with banch and branchsite model.
+
+# 03.gene_family
+including two shell files:
+01.runOrthomcl.sh was used to get gene faimly file.
+02.runcafe.sh was used to run cafe and get gene faimlies expanded or contracted in giraffe.
+
