@@ -1,0 +1,5 @@
+drop database end_cluster; ### if database orthomcl is exists, do this; else, pass;
+create database end_cluster;
+grant all  on end_cluster.* to ruminant@localhost identified by '1234';  #### give all privileges to TwoIronWood;
+flush privileges;
+
