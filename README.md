@@ -7,9 +7,9 @@ including three scripts:
 03.cds2aa.pl was used to convert coding sequences to protein sequences.
 
 # 01.CNEE_analysis
-files unmberd from 01 t0 16 were used to predict HCE regions with the multi-sequence alignment maf files.
-files unmberd from 17 t0 24 were used to get HCE regions with the at least four unique sites among rumiannt species and have a higer zscore (>2.5).
-files unmberd from 25 t0 29 were used to annotate genes around HCE regions and CNEE regions with the gff file of goat genome.
+files numbered from 01 to 16 were used to predict HCE regions with the multi-sequence alignment maf files.
+files numbered from 17 to 24 were used to get HCE regions with the at least four unique sites among rumiannt species and have a high zscore (>2.5).
+files numbered from 25 to 29 were used to annotate genes around HCE regions and CNEE regions with the gff file of goat genome.
 
 # 02.PAML_analysis
 including two scripts:
@@ -20,4 +20,10 @@ including two scripts:
 including two shell files:
 01.runOrthomcl.sh was used to get gene faimly file.
 02.runcafe.sh was used to run cafe and get gene faimlies expanded or contracted in giraffe.
+
+# 04.rapidly_evolving_pathways
+01.basic_table.pl was used to get pathways under rapid evolution in giraffe.
+
+# 05.gene_loss
+Firstly, align raw reads used for the assembly of giraffe and okapi genome to cattle genome and get bam files. Then, 01.run.pl was used get genes uniquely lost in giraffe or okapi with the bam files. 
 
