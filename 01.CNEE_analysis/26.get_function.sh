@@ -1,0 +1,1 @@
+for i in `ls *.bed.annoformat`;do echo perl /public/home/yuanyuan/software/ANNOVAR/annovar/annotate_variation.pl --outfile $i  --buildver goat $i /public/home/liuchang/projects/giraffe/14.planA >>27.function.sh;done

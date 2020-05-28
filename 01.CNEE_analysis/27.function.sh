@@ -1,0 +1,12 @@
+perl /public/home/yuanyuan/software/ANNOVAR/annovar/annotate_variation.pl --outfile Cattle.4.0.8.bed.annoformat --buildver goat Cattle.4.0.8.bed.annoformat /public/home/liuchang/projects/giraffe/14.planA
+perl /public/home/yuanyuan/software/ANNOVAR/annovar/annotate_variation.pl --outfile Daviddeer.4.0.8.bed.annoformat --buildver goat Daviddeer.4.0.8.bed.annoformat /public/home/liuchang/projects/giraffe/14.planA
+perl /public/home/yuanyuan/software/ANNOVAR/annovar/annotate_variation.pl --outfile ForestMuskDeer10x.4.0.8.bed.annoformat --buildver goat ForestMuskDeer10x.4.0.8.bed.annoformat /public/home/liuchang/projects/giraffe/14.planA
+perl /public/home/yuanyuan/software/ANNOVAR/annovar/annotate_variation.pl --outfile Gerenuk.4.0.8.bed.annoformat --buildver goat Gerenuk.4.0.8.bed.annoformat /public/home/liuchang/projects/giraffe/14.planA
+perl /public/home/yuanyuan/software/ANNOVAR/annovar/annotate_variation.pl --outfile Giraffe3.4.0.8.bed.annoformat --buildver goat Giraffe3.4.0.8.bed.annoformat /public/home/liuchang/projects/giraffe/14.planA
+perl /public/home/yuanyuan/software/ANNOVAR/annovar/annotate_variation.pl --outfile goat.4.0.8.bed.annoformat --buildver goat goat.4.0.8.bed.annoformat /public/home/liuchang/projects/giraffe/14.planA
+perl /public/home/yuanyuan/software/ANNOVAR/annovar/annotate_variation.pl --outfile Okapi.4.0.8.bed.annoformat --buildver goat Okapi.4.0.8.bed.annoformat /public/home/liuchang/projects/giraffe/14.planA
+perl /public/home/yuanyuan/software/ANNOVAR/annovar/annotate_variation.pl --outfile Pronghorn.4.0.8.bed.annoformat --buildver goat Pronghorn.4.0.8.bed.annoformat /public/home/liuchang/projects/giraffe/14.planA
+perl /public/home/yuanyuan/software/ANNOVAR/annovar/annotate_variation.pl --outfile Reindeer.4.0.8.bed.annoformat --buildver goat Reindeer.4.0.8.bed.annoformat /public/home/liuchang/projects/giraffe/14.planA
+perl /public/home/yuanyuan/software/ANNOVAR/annovar/annotate_variation.pl --outfile SpermWhale.4.0.8.bed.annoformat --buildver goat SpermWhale.4.0.8.bed.annoformat /public/home/liuchang/projects/giraffe/14.planA
+perl /public/home/yuanyuan/software/ANNOVAR/annovar/annotate_variation.pl --outfile Springbuck.4.0.8.bed.annoformat --buildver goat Springbuck.4.0.8.bed.annoformat /public/home/liuchang/projects/giraffe/14.planA
+perl /public/home/yuanyuan/software/ANNOVAR/annovar/annotate_variation.pl --outfile TragulusNew.4.0.8.bed.annoformat --buildver goat TragulusNew.4.0.8.bed.annoformat /public/home/liuchang/projects/giraffe/14.planA
